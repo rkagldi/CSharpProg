@@ -1,0 +1,10 @@
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\bin\Debug\HelloCShartWin.exe.config
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\bin\Debug\HelloCShartWin.exe
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\bin\Debug\HelloCShartWin.pdb
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.csprojResolveAssemblyReference.cache
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.Calculator.resources
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.Properties.Resources.resources
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.csproj.GenerateResource.Cache
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.exe.licenses
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.exe
+c:\users\rkagl\documents\visual studio 2013\Projects\HelloCShartWin\HelloCShartWin\obj\Debug\HelloCShartWin.pdb
